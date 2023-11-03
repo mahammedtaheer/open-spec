@@ -56,6 +56,7 @@ Tag 169 represents a JSON Object that includes a range of ID attributes defined 
 # References
 
 [1] C. Bormann, and P. Hoffman. "Concise Binary Object Representation (CBOR)". [RFC 7049](https://tools.ietf.org/html/rfc7049), October 2013.
+
 [2] Mike Jones, Hannes Tschofenig, Ludwig Seitz  "CBOR Web Token (CWT)". [RFC 8392](https://www.iana.org/go/rfc8392), March 2018.
 
 # Author
